@@ -5,7 +5,7 @@ def self.count
 @@count
 end
 
-@@genres = []
+
 
 def self.genre_count
     genre_count = {}
