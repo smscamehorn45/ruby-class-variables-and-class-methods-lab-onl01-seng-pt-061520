@@ -5,6 +5,10 @@ def self.count
 @@count
 end
 
+
+@@genres = []
+
+
 def self.genres
     @@genres.uniq
   end
