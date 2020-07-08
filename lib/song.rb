@@ -5,7 +5,9 @@ def self.count
 @@count
 end
 
-
+ef self.genres
+    @@genres.uniq
+  end
 
 def self.genre_count
     genre_count = {}
