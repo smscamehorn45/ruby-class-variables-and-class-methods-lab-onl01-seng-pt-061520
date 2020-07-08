@@ -5,7 +5,7 @@ def self.count
 @@count
 end
 
-ef self.genres
+def self.genres
     @@genres.uniq
   end
 
